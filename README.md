@@ -1,5 +1,11 @@
 # 🎬 AI Movie Recommendation Agent
 
+
+
+https://github.com/user-attachments/assets/5361d63b-fe93-4f3d-9b43-d9acf009129d
+
+
+
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/)
 [![Agno](https://img.shields.io/badge/Agno-Framework-orange.svg)](https://github.com/agno-agi/agno)
